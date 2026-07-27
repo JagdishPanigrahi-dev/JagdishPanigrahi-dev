@@ -8,8 +8,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Location-Bhubaneswar,_India-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00F5D4" />
 <img src="https://komarev.com/ghpvc/?username=JagdishPanigrahi-dev&label=Profile%20Views&color=0F2027&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/JagdishPanigrahi-dev?label=Followers&style=for-the-badge&color=0F2027&logo=github" />
 
 <br><br>
 
@@ -21,11 +21,11 @@
 </a>
 <img src="https://img.shields.io/badge/Telegram-Coming_Soon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 
-</div>
-
-<br>
+<br><br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+</div>
 
 <br>
 
@@ -33,24 +33,29 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-I'm **Jagdish**, a systems-focused backend engineer from **Bhubaneswar, India**, building low-latency APIs, serverless microservices, and zero-trust security layers.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=800&color=A0FFF1&center=false&vCenter=true&width=600&height=140&lines=I'm+Jagdish+%E2%80%94+backend+%26+systems+engineer.;I+build+low-latency+APIs+and+serverless+microservices.;I+design+zero-trust+security+layers+from+scratch.;My+rule%3A+keep+it+clean%2C+cut+the+latency%2C+scale+quiet.;Currently+deep+in+sandboxed+AST+execution+engines." alt="About Typing SVG" />
 
-My approach: keep the architecture clean, chase every millisecond of latency out of the request path, and let the system scale without needing to shout about it.
-
-Right now I'm deep in **sandboxed AST execution engines** and **anti-SSRF request pipelines** — building the kind of infra layer most people never see, but always depend on.
+<br>
 
 > *"Build clean, optimize for latency, and scale quietly."*
 
-</td>
-<td width="40%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Currently_Exploring-Sandboxed_AST_Engines-00F5D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Currently_Exploring-Anti--SSRF_Pipelines-00F5D4?style=flat-square" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+</div>
 
 <br>
 
@@ -110,36 +115,58 @@ Right now I'm deep in **sandboxed AST execution engines** and **anti-SSRF reques
 
 ## 🏗️ Featured Architectural Projects
 
+<br>
+
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/>
+</td>
+<td width="85%">
 
-### 🔗 QORB
-**Query Object & Relational Bridge**
-
+### 🔗 QORB — Query Object & Relational Bridge
 Lightweight, zero-dependency database interface wrapper providing MongoDB-like query syntax on top of SQL/libSQL storage engines, powered by a custom AST query parser.
 
-`Python` `SQL` `libSQL`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/libSQL-4FF8D2?style=flat-square&logo=turso&logoColor=black" />
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
-### ⚡ Edge API Gateway
-**Low-Latency Proxy & Router**
+<table width="100%">
+<tr>
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
+</td>
+<td width="85%">
 
-Multi-target API gateway and middleware router — deployable across serverless edge platforms (Vercel, Cloudflare Workers) and traditional hosts (Render, Koyeb, Heroku) alike.
+### ⚡ Edge API Gateway & Middleware
+Multi-target low-latency API gateway and router — deployable across serverless edge platforms (Vercel, Cloudflare Workers) and traditional hosts (Render, Koyeb, Heroku) alike.
 
-`Node.js` `Vercel` `Render` `Koyeb`
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Koyeb-121212?style=flat-square&logo=koyeb&logoColor=white" />
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
-### 🔐 Crypto Auth Layer
-**Zero-Trust Security Engine**
+<table width="100%">
+<tr>
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70"/>
+</td>
+<td width="85%">
 
-Custom authentication and security engine featuring AES-256-GCM encryption, adaptive rate-limiting, and anti-abuse honeypot traps.
+### 🔐 Cryptographic Auth & Security Layer
+Custom zero-trust authentication and security engine featuring AES-256-GCM encryption, adaptive rate-limiting, and anti-abuse honeypot traps.
 
-`Python` `Node.js` `AES-256-GCM`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/AES--256--GCM-F80000?style=flat-square&logo=letsencrypt&logoColor=white" />
 
 </td>
 </tr>
@@ -151,7 +178,10 @@ Custom authentication and security engine featuring AES-256-GCM encryption, adap
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/>
+</td>
+<td width="85%">
 
 A full-featured Telegram group management bot built on **python-telegram-bot v20+**, running a webhook architecture deployed on **Vercel** with **Turso (async SQLite-compatible)** as the data layer.
 
@@ -202,6 +232,10 @@ A full-featured Telegram group management bot built on **python-telegram-bot v20
 </a>
 
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=100&section=footer" width="100%"/>
 
