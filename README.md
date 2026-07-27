@@ -21,10 +21,6 @@
 </a>
 <img src="https://img.shields.io/badge/Telegram-Coming_Soon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 
-<br><br>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 </div>
 
 <br>
@@ -100,6 +96,17 @@
 </td>
 </tr>
 <tr>
+<th align="center" colspan="2">MERN Stack</th>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</td>
+</tr>
+<tr>
 <th align="center" colspan="2">Tooling & OS</th>
 </tr>
 <tr>
@@ -125,10 +132,12 @@
 <td width="85%">
 
 ### 🔗 QORB — Query Object & Relational Bridge
-Lightweight, zero-dependency database interface wrapper providing MongoDB-like query syntax on top of SQL/libSQL storage engines, powered by a custom AST query parser.
+Lightweight, zero-dependency database interface wrapper providing MongoDB-like query syntax on top of SQL/libSQL storage engines, powered by a custom AST query parser. Built on the **MERN** stack.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/libSQL-4FF8D2?style=flat-square&logo=turso&logoColor=black" />
 
 </td>
